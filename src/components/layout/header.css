@@ -1,0 +1,9 @@
+.header-container {
+  height: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #0046be;
+  color: #fff;
+}
